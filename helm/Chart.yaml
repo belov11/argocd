@@ -1,0 +1,6 @@
+description: Go-server Helm chart for Kubernetes.
+maintainers:
+- email: pavelbelov@pavelbelov.com
+  name: Pavel Belov
+name: go-server
+version: 1.0.0
