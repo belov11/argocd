@@ -1,5 +1,5 @@
 deployment:
-  replicas: 3
+  replicas: 2
 ingress:
   host: up4soft-go.test
 namespace: go-server
