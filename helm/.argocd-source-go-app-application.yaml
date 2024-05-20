@@ -3,6 +3,6 @@ helm:
   - name: image
     value: docker.io/pavelbelov/my-go-app
     forcestring: true
-  - name: imagTag
+  - name: imageTag
     value: "132"
     forcestring: true
