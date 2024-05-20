@@ -1,8 +1,8 @@
 helm:
   parameters:
-  - name: image
+  - name: image.name
     value: docker.io/pavelbelov/my-go-app
     forcestring: true
-  - name: imageTag
-    value: "131"
+  - name: image.tag
+    value: "132"
     forcestring: true
