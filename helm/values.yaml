@@ -3,3 +3,5 @@ deployment:
 ingress:
   host: up4soft-go.test
 namespace: go-server
+image: pavelbelov/my-go-app
+imageTag: 12
