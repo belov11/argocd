@@ -4,5 +4,5 @@ helm:
     value: docker.io/pavelbelov/my-go-app
     forcestring: true
   - name: imageTag
-    value: "139"
+    value: "140"
     forcestring: true
